@@ -1,2 +1,1 @@
-# PrepCourse-Henry2
-Second try on dummy repository
+Este proyecto es la segundo prueba de como clonarlo y montarlo en git hub
